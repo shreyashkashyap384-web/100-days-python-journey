@@ -13,4 +13,4 @@ This repository contains my daily Python projects and exercises from the 100 Day
 - [x] Day 2 - Tip Calculator
 - [x] Day 3 - Treasure Island
 - [x] Day 4 - Rock, Paper and Scissor Game
-- [x] Day 5 - Passwrod Generator using two methods
+- [x] Day 5 - Password Generator using two methods
